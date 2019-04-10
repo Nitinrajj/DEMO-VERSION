@@ -14,6 +14,7 @@
 		11E789B5225DF6BE00887B67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11E789B3225DF6BE00887B67 /* LaunchScreen.storyboard */; };
 		11E789C0225DF6BE00887B67 /* DEMO_VERSIONTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E789BF225DF6BE00887B67 /* DEMO_VERSIONTests.swift */; };
 		11E789CB225DF6BE00887B67 /* DEMO_VERSIONUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11E789CA225DF6BE00887B67 /* DEMO_VERSIONUITests.swift */; };
+		FF395A6D225DFA5A007495C3 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF395A6C225DFA5A007495C3 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		11E789C6225DF6BE00887B67 /* DEMO VERSIONUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "DEMO VERSIONUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11E789CA225DF6BE00887B67 /* DEMO_VERSIONUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DEMO_VERSIONUITests.swift; sourceTree = "<group>"; };
 		11E789CC225DF6BE00887B67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF395A6C225DFA5A007495C3 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				11E789B1225DF6BE00887B67 /* Assets.xcassets */,
 				11E789B3225DF6BE00887B67 /* LaunchScreen.storyboard */,
 				11E789B6225DF6BE00887B67 /* Info.plist */,
+				FF395A6C225DFA5A007495C3 /* TableViewController.swift */,
 			);
 			path = "DEMO VERSION";
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				11E789AD225DF6BD00887B67 /* ViewController.swift in Sources */,
+				FF395A6D225DFA5A007495C3 /* TableViewController.swift in Sources */,
 				11E789AB225DF6BD00887B67 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
